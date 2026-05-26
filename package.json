@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-setup",
+  "version": "1.0.0",
+  "description": "Bot Discord avec accueil automatique et gestion des rôles",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^17.4.2"
+  }
+}
