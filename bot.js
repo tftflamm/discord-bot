@@ -229,4 +229,4 @@ client.once('ready', () => {
   console.log(`📡 Serveurs : ${client.guilds.cache.size}`);
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login("MTUwNzg4OTYxNjYyNjEyNjg3OA.GrPevB.esaeWAbx_p_zyLogb3pits-6XJD1egAkVrRmBE");
